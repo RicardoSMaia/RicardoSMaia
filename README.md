@@ -35,5 +35,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RicardoSMaia&theme=radical)](https://github.com/RicardoSMaia)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RicardoSMaia&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
