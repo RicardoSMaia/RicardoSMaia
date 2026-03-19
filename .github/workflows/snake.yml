@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Test token
         run: |
-          echo "Token exists: ${{ secrets.SNAKENV: }}
-          echo "Token length: ${{ secrets.SNAKENS: }}"
+          echo "Token exists: ${{ secrets.SNAKE_TOKEN: }}
+          echo "Token length: ${{ secrets.SNAKE_TOKEN: }}"
         env:
           TOKEN: ${{ secrets.SNAKE_TOKEN }}
