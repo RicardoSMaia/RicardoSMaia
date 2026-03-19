@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ricardo Souza Maia, a developer from Brazil who specializes on web development. Currently, I'm in my second year of Biomedical Informatics at UFCSPA.
+# Hi, I'm Ricardo Souza Maia, a developer from Brazil who specializes on web development. Currently, I'm in my second year of Biomedical Informatics at UFCSPA.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoSMaia&show_icons=true&theme=radical)](https://github.com/RicardoSMaia)
 
